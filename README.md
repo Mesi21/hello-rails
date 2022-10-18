@@ -1,24 +1,41 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails 
 
-Things you may want to cover:
+Create a core Rails app
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Getting Started
 
-* Database creation
+Create a repo then clone it and open into Visual Studio Code
 
-* Database initialization
+### Setup
 
-* How to run the test suite
+- Download and install Visual Studio, Ruby
+- Command line / Git bash
 
-* Services (job queues, cache servers, search engines, etc.)
+### Install
 
-* Deployment instructions
+- Visual Studio Code
+- Ruby
+- Rails
 
-* ...
+## Author
+
+👤 **Molnar Emese**
+- [Mesi21](https://github.com/Mesi21)
+- [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)  
+- [Twitter](https://twitter.com/buksimesi21)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
